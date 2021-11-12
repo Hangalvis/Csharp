@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDatos", "TipoDatos\Tipo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones", "Funciones\Funciones.csproj", "{500D0DCF-A920-4487-B111-9E6359389A88}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionales", "Condicionales\Condicionales.csproj", "{37DF8BAB-EAFA-4992-859F-486C573AFBF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{500D0DCF-A920-4487-B111-9E6359389A88}.Release|x64.Build.0 = Release|Any CPU
 		{500D0DCF-A920-4487-B111-9E6359389A88}.Release|x86.ActiveCfg = Release|Any CPU
 		{500D0DCF-A920-4487-B111-9E6359389A88}.Release|x86.Build.0 = Release|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Debug|x64.Build.0 = Debug|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Debug|x86.Build.0 = Debug|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Release|x64.ActiveCfg = Release|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Release|x64.Build.0 = Release|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Release|x86.ActiveCfg = Release|Any CPU
+		{37DF8BAB-EAFA-4992-859F-486C573AFBF9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
