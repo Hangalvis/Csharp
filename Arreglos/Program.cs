@@ -6,7 +6,16 @@ namespace Arreglos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] friends = new string[5]{
+                "sebastian",
+                "carlos",
+                "andres",
+                "felipe",
+                null
+            };
+            friends[0] = "Han";
+            System.Console.WriteLine(friends[0]);
+            Console.WriteLine(friends[1]);
         }
     }
 }

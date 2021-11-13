@@ -5,7 +5,6 @@ C:\Users\HanDev\Documents\Cursos\c#\TipoDatos\bin\Debug\net5.0\TipoDatos.runtime
 C:\Users\HanDev\Documents\Cursos\c#\TipoDatos\bin\Debug\net5.0\TipoDatos.dll
 C:\Users\HanDev\Documents\Cursos\c#\TipoDatos\bin\Debug\net5.0\ref\TipoDatos.dll
 C:\Users\HanDev\Documents\Cursos\c#\TipoDatos\bin\Debug\net5.0\TipoDatos.pdb
-C:\Users\HanDev\Documents\Cursos\c#\TipoDatos\obj\Debug\net5.0\TipoDatos.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\TipoDatos\obj\Debug\net5.0\TipoDatos.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\TipoDatos\obj\Debug\net5.0\TipoDatos.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\TipoDatos\obj\Debug\net5.0\TipoDatos.AssemblyInfo.cs

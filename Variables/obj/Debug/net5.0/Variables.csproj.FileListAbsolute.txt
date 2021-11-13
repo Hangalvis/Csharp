@@ -5,6 +5,7 @@ C:\Users\HanDev\Documents\Cursos\c#\Variables\bin\Debug\net5.0\Variables.runtime
 C:\Users\HanDev\Documents\Cursos\c#\Variables\bin\Debug\net5.0\Variables.dll
 C:\Users\HanDev\Documents\Cursos\c#\Variables\bin\Debug\net5.0\ref\Variables.dll
 C:\Users\HanDev\Documents\Cursos\c#\Variables\bin\Debug\net5.0\Variables.pdb
+C:\Users\HanDev\Documents\Cursos\c#\Variables\obj\Debug\net5.0\Variables.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs

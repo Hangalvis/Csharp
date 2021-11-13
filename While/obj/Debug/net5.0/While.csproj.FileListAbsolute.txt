@@ -1,0 +1,16 @@
+C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\While.exe
+C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\While.deps.json
+C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\While.runtimeconfig.json
+C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\While.runtimeconfig.dev.json
+C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\While.dll
+C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\ref\While.dll
+C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\While.pdb
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.AssemblyInfoInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.AssemblyInfo.cs
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.csproj.CoreCompileInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.dll
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\ref\While.dll
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.pdb
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.genruntimeconfig.cache
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.csproj.AssemblyReference.cache
