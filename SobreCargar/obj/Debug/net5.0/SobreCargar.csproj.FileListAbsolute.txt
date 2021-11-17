@@ -1,0 +1,16 @@
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\SobreCargar.exe
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\SobreCargar.deps.json
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\SobreCargar.runtimeconfig.json
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\SobreCargar.runtimeconfig.dev.json
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\SobreCargar.dll
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\ref\SobreCargar.dll
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\SobreCargar.pdb
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.csproj.AssemblyReference.cache
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.AssemblyInfoInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.AssemblyInfo.cs
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.csproj.CoreCompileInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.dll
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\ref\SobreCargar.dll
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.pdb
+C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.genruntimeconfig.cache
