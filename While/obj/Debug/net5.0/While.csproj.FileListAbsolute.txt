@@ -13,4 +13,3 @@ C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.dll
 C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\ref\While.dll
 C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.pdb
 C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.genruntimeconfig.cache
-C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.csproj.AssemblyReference.cache

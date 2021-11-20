@@ -5,7 +5,6 @@ C:\Users\HanDev\Documents\Cursos\c#\Propiedades\bin\Debug\net5.0\Propiedades.run
 C:\Users\HanDev\Documents\Cursos\c#\Propiedades\bin\Debug\net5.0\Propiedades.dll
 C:\Users\HanDev\Documents\Cursos\c#\Propiedades\bin\Debug\net5.0\ref\Propiedades.dll
 C:\Users\HanDev\Documents\Cursos\c#\Propiedades\bin\Debug\net5.0\Propiedades.pdb
-C:\Users\HanDev\Documents\Cursos\c#\Propiedades\obj\Debug\net5.0\Propiedades.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\Propiedades\obj\Debug\net5.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfo.cs

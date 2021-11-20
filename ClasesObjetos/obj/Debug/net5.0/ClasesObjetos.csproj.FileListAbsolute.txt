@@ -5,7 +5,6 @@ C:\Users\HanDev\Documents\Cursos\c#\ClasesObjetos\bin\Debug\net5.0\ClasesObjetos
 C:\Users\HanDev\Documents\Cursos\c#\ClasesObjetos\bin\Debug\net5.0\ClasesObjetos.dll
 C:\Users\HanDev\Documents\Cursos\c#\ClasesObjetos\bin\Debug\net5.0\ref\ClasesObjetos.dll
 C:\Users\HanDev\Documents\Cursos\c#\ClasesObjetos\bin\Debug\net5.0\ClasesObjetos.pdb
-C:\Users\HanDev\Documents\Cursos\c#\ClasesObjetos\obj\Debug\net5.0\ClasesObjetos.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\ClasesObjetos\obj\Debug\net5.0\ClasesObjetos.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\ClasesObjetos\obj\Debug\net5.0\ClasesObjetos.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\ClasesObjetos\obj\Debug\net5.0\ClasesObjetos.AssemblyInfo.cs

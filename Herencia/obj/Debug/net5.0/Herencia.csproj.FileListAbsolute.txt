@@ -5,7 +5,6 @@ C:\Users\HanDev\Documents\Cursos\c#\Herencia\bin\Debug\net5.0\Herencia.runtimeco
 C:\Users\HanDev\Documents\Cursos\c#\Herencia\bin\Debug\net5.0\Herencia.dll
 C:\Users\HanDev\Documents\Cursos\c#\Herencia\bin\Debug\net5.0\ref\Herencia.dll
 C:\Users\HanDev\Documents\Cursos\c#\Herencia\bin\Debug\net5.0\Herencia.pdb
-C:\Users\HanDev\Documents\Cursos\c#\Herencia\obj\Debug\net5.0\Herencia.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\Herencia\obj\Debug\net5.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfo.cs

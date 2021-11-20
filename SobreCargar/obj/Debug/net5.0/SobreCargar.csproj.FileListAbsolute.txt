@@ -5,7 +5,6 @@ C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\SobreCargar.run
 C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\SobreCargar.dll
 C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\ref\SobreCargar.dll
 C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\bin\Debug\net5.0\SobreCargar.pdb
-C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\SobreCargar\obj\Debug\net5.0\SobreCargar.AssemblyInfo.cs

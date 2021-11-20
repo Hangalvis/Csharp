@@ -5,6 +5,7 @@ C:\Users\HanDev\Documents\Cursos\c#\Arreglos\bin\Debug\net5.0\Arreglos.runtimeco
 C:\Users\HanDev\Documents\Cursos\c#\Arreglos\bin\Debug\net5.0\Arreglos.dll
 C:\Users\HanDev\Documents\Cursos\c#\Arreglos\bin\Debug\net5.0\ref\Arreglos.dll
 C:\Users\HanDev\Documents\Cursos\c#\Arreglos\bin\Debug\net5.0\Arreglos.pdb
+C:\Users\HanDev\Documents\Cursos\c#\Arreglos\obj\Debug\net5.0\Arreglos.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\Arreglos\obj\Debug\net5.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\Arreglos\obj\Debug\net5.0\Arreglos.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\Arreglos\obj\Debug\net5.0\Arreglos.AssemblyInfo.cs
