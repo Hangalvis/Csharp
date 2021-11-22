@@ -1,0 +1,16 @@
+C:\Users\HanDev\Documents\Cursos\c#\Lists\obj\Debug\net5.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HanDev\Documents\Cursos\c#\Lists\obj\Debug\net5.0\Lists.AssemblyInfoInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\Lists\obj\Debug\net5.0\Lists.AssemblyInfo.cs
+C:\Users\HanDev\Documents\Cursos\c#\Lists\obj\Debug\net5.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\Lists\bin\Debug\net5.0\Lists.exe
+C:\Users\HanDev\Documents\Cursos\c#\Lists\bin\Debug\net5.0\Lists.deps.json
+C:\Users\HanDev\Documents\Cursos\c#\Lists\bin\Debug\net5.0\Lists.runtimeconfig.json
+C:\Users\HanDev\Documents\Cursos\c#\Lists\bin\Debug\net5.0\Lists.runtimeconfig.dev.json
+C:\Users\HanDev\Documents\Cursos\c#\Lists\bin\Debug\net5.0\Lists.dll
+C:\Users\HanDev\Documents\Cursos\c#\Lists\bin\Debug\net5.0\ref\Lists.dll
+C:\Users\HanDev\Documents\Cursos\c#\Lists\bin\Debug\net5.0\Lists.pdb
+C:\Users\HanDev\Documents\Cursos\c#\Lists\obj\Debug\net5.0\Lists.csproj.AssemblyReference.cache
+C:\Users\HanDev\Documents\Cursos\c#\Lists\obj\Debug\net5.0\Lists.dll
+C:\Users\HanDev\Documents\Cursos\c#\Lists\obj\Debug\net5.0\ref\Lists.dll
+C:\Users\HanDev\Documents\Cursos\c#\Lists\obj\Debug\net5.0\Lists.pdb
+C:\Users\HanDev\Documents\Cursos\c#\Lists\obj\Debug\net5.0\Lists.genruntimeconfig.cache
