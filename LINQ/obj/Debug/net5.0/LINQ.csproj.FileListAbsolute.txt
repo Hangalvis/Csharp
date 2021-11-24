@@ -5,7 +5,6 @@ C:\Users\HanDev\Documents\Cursos\c#\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.dev
 C:\Users\HanDev\Documents\Cursos\c#\LINQ\bin\Debug\net5.0\LINQ.dll
 C:\Users\HanDev\Documents\Cursos\c#\LINQ\bin\Debug\net5.0\ref\LINQ.dll
 C:\Users\HanDev\Documents\Cursos\c#\LINQ\bin\Debug\net5.0\LINQ.pdb
-C:\Users\HanDev\Documents\Cursos\c#\LINQ\obj\Debug\net5.0\LINQ.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\LINQ\obj\Debug\net5.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfo.cs

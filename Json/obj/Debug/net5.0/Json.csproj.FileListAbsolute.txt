@@ -5,7 +5,6 @@ C:\Users\HanDev\Documents\Cursos\c#\Json\bin\Debug\net5.0\Json.runtimeconfig.dev
 C:\Users\HanDev\Documents\Cursos\c#\Json\bin\Debug\net5.0\Json.dll
 C:\Users\HanDev\Documents\Cursos\c#\Json\bin\Debug\net5.0\ref\Json.dll
 C:\Users\HanDev\Documents\Cursos\c#\Json\bin\Debug\net5.0\Json.pdb
-C:\Users\HanDev\Documents\Cursos\c#\Json\obj\Debug\net5.0\Json.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\Json\obj\Debug\net5.0\Json.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\Json\obj\Debug\net5.0\Json.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\Json\obj\Debug\net5.0\Json.AssemblyInfo.cs

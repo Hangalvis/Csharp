@@ -5,6 +5,7 @@ C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\While.runtimeconfig.d
 C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\While.dll
 C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\ref\While.dll
 C:\Users\HanDev\Documents\Cursos\c#\While\bin\Debug\net5.0\While.pdb
+C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\While\obj\Debug\net5.0\While.AssemblyInfo.cs

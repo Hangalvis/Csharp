@@ -13,4 +13,3 @@ C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.dll
 C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\ref\metodoslist.dll
 C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.pdb
 C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.genruntimeconfig.cache
-C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.csproj.AssemblyReference.cache

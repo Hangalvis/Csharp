@@ -1,0 +1,15 @@
+C:\Users\HanDev\Documents\Cursos\c#\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\HanDev\Documents\Cursos\c#\DB\bin\Debug\net5.0\DB.runtimeconfig.json
+C:\Users\HanDev\Documents\Cursos\c#\DB\bin\Debug\net5.0\DB.runtimeconfig.dev.json
+C:\Users\HanDev\Documents\Cursos\c#\DB\bin\Debug\net5.0\DB.dll
+C:\Users\HanDev\Documents\Cursos\c#\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\HanDev\Documents\Cursos\c#\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\HanDev\Documents\Cursos\c#\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+C:\Users\HanDev\Documents\Cursos\c#\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HanDev\Documents\Cursos\c#\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\HanDev\Documents\Cursos\c#\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\DB\obj\Debug\net5.0\DB.dll
+C:\Users\HanDev\Documents\Cursos\c#\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\HanDev\Documents\Cursos\c#\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\HanDev\Documents\Cursos\c#\DB\obj\Debug\net5.0\DB.genruntimeconfig.cache

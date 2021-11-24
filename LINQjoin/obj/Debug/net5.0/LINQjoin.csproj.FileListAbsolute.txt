@@ -5,7 +5,6 @@ C:\Users\HanDev\Documents\Cursos\c#\LINQjoin\bin\Debug\net5.0\LINQjoin.runtimeco
 C:\Users\HanDev\Documents\Cursos\c#\LINQjoin\bin\Debug\net5.0\LINQjoin.dll
 C:\Users\HanDev\Documents\Cursos\c#\LINQjoin\bin\Debug\net5.0\ref\LINQjoin.dll
 C:\Users\HanDev\Documents\Cursos\c#\LINQjoin\bin\Debug\net5.0\LINQjoin.pdb
-C:\Users\HanDev\Documents\Cursos\c#\LINQjoin\obj\Debug\net5.0\LINQjoin.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\LINQjoin\obj\Debug\net5.0\LINQjoin.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\LINQjoin\obj\Debug\net5.0\LINQjoin.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\LINQjoin\obj\Debug\net5.0\LINQjoin.AssemblyInfo.cs

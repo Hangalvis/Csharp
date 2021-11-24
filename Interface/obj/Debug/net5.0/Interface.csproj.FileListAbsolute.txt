@@ -5,7 +5,6 @@ C:\Users\HanDev\Documents\Cursos\c#\Interface\bin\Debug\net5.0\Interface.runtime
 C:\Users\HanDev\Documents\Cursos\c#\Interface\bin\Debug\net5.0\Interface.dll
 C:\Users\HanDev\Documents\Cursos\c#\Interface\bin\Debug\net5.0\ref\Interface.dll
 C:\Users\HanDev\Documents\Cursos\c#\Interface\bin\Debug\net5.0\Interface.pdb
-C:\Users\HanDev\Documents\Cursos\c#\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
 C:\Users\HanDev\Documents\Cursos\c#\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HanDev\Documents\Cursos\c#\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
 C:\Users\HanDev\Documents\Cursos\c#\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs

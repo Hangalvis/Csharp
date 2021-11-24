@@ -13,4 +13,3 @@ C:\Users\HanDev\Documents\Cursos\c#\Generic\obj\Debug\net5.0\Generic.dll
 C:\Users\HanDev\Documents\Cursos\c#\Generic\obj\Debug\net5.0\ref\Generic.dll
 C:\Users\HanDev\Documents\Cursos\c#\Generic\obj\Debug\net5.0\Generic.pdb
 C:\Users\HanDev\Documents\Cursos\c#\Generic\obj\Debug\net5.0\Generic.genruntimeconfig.cache
-C:\Users\HanDev\Documents\Cursos\c#\Generic\obj\Debug\net5.0\Generic.csproj.AssemblyReference.cache
