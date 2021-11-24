@@ -1,0 +1,15 @@
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\bin\Debug\net5.0\Tuplas.exe
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\bin\Debug\net5.0\Tuplas.deps.json
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.json
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.dev.json
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\bin\Debug\net5.0\Tuplas.dll
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\bin\Debug\net5.0\ref\Tuplas.dll
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\bin\Debug\net5.0\Tuplas.pdb
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\obj\Debug\net5.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfoInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfo.cs
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\obj\Debug\net5.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\obj\Debug\net5.0\Tuplas.dll
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\obj\Debug\net5.0\ref\Tuplas.dll
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\obj\Debug\net5.0\Tuplas.pdb
+C:\Users\HanDev\Documents\Cursos\c#\Tuplas\obj\Debug\net5.0\Tuplas.genruntimeconfig.cache

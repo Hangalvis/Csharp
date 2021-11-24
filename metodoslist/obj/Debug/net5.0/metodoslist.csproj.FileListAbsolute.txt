@@ -1,0 +1,16 @@
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\bin\Debug\net5.0\metodoslist.exe
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\bin\Debug\net5.0\metodoslist.deps.json
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\bin\Debug\net5.0\metodoslist.runtimeconfig.json
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\bin\Debug\net5.0\metodoslist.runtimeconfig.dev.json
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\bin\Debug\net5.0\metodoslist.dll
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\bin\Debug\net5.0\ref\metodoslist.dll
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\bin\Debug\net5.0\metodoslist.pdb
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.AssemblyInfoInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.AssemblyInfo.cs
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.csproj.CoreCompileInputs.cache
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.dll
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\ref\metodoslist.dll
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.pdb
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.genruntimeconfig.cache
+C:\Users\HanDev\Documents\Cursos\c#\metodoslist\obj\Debug\net5.0\metodoslist.csproj.AssemblyReference.cache
